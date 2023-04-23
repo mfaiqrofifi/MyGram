@@ -17,7 +17,7 @@ Making this API I use a few framework wich is:
 - [Golang] - the major language for making this API
 - [GORM] - conecting our database and API and making easy query
 - [JWT] - Making token for authentification and authorization.
-- [GIN] - Farmework for Making an API 
+- [GIN] - Framework for Making API 
 
 
 ## Result
